@@ -70,3 +70,5 @@ cv2.waitKey(0)
 
 # Cerrar ventanas
 cv2.destroyAllWindows()
+
+print("Hecha por Meredith Aguirre NC = 0013")
